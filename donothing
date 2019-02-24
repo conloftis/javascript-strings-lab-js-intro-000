@@ -1,1 +1,5 @@
 function donothing() {}
+
+function sayHello() {
+console.log("Hello")
+}
